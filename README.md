@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MEARN**
 
-- 📫 How to reach me **nhnishat1998@gmail.com**
+- 📫 How to reach me **nishat.hossain401@gmail.com**
 
 - ⚡ Fun fact **I think I am very Funny persion person**
 
