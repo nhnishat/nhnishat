@@ -1,4 +1,4 @@
-[MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Md. Nishat Hossain</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
@@ -18,8 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nhnishat.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhnishat.69" height="30" width="40" /></a>
+<a href="https://fb.com/nhnishat.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="nhnishat.69" height="30" width="40" /></a>
 <a href="https://instagram.com/nishat_hossain02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishat_hossain02" height="30" width="40" /></a>
-<a href="https://discord.gg/.nishat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".nishat" height="30" width="40" /></a>
+<a href="https://discord.gg/mdnishathossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdnishathossain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
